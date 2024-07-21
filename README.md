@@ -1,7 +1,1 @@
-- 👋 Hi, I’m @Zodakis
-- 👀 I’m interested in game development
-- 🌱 I’m currently learning how to code in Python
-- 💞️ I’m looking to collaborate on game development
-- 📫 How to reach me email me - finnistersilis@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I startid coding when I was 12
+
